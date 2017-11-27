@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+h1 {
+}
+
+h2 {
+}
+
+h3 {
+	color: red;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.titles {
+	color: #ff8000;
+	font-family: "Times New Roman", Times, serif;
+}
+
+#success_message{ display: none;}
+
+
+
